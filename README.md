@@ -9,3 +9,5 @@ Ekip;
 Proje prototipini izlemek için görsele tıklayınız;
 
 [![kk](https://user-images.githubusercontent.com/76450122/164315963-86c3175f-6c4a-434a-a21b-ed9ff9e4339a.jpg)](https://www.youtube.com/watch?v=fQh-R8nN6Ac)
+---
+[Teknik Şartname Dokümanı İncelemek İçin Tıklayınız](https://github.com/enqinsel/inu_cevrimici_bakiye_yukleme_sistemi/files/8555111/Teknik.Sartname.Dokumani.pdf)
